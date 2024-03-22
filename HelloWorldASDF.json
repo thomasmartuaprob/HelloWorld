@@ -1,3 +1,4 @@
 {
-    "name": "Hello World"
+    "name": "Hello World",
+    "foo": "bar"
 }
