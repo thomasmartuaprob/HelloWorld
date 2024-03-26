@@ -1,4 +1,5 @@
 {
     "name": "foo",
-    "bar": "new item"
+    "bar": "new item",
+    "new": "key"
 }
